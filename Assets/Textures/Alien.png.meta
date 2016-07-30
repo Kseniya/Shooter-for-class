@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 0e17565dc52264834a74bc26267faff7
+timeCreated: 1469754855
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Untitled-1_0
+    21300002: Untitled-1_1
+    21300004: Untitled-1_2
+    21300006: Alien_0
+    21300008: Alien_1
+    21300010: Alien_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Alien_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 123
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 58}
+        - {x: -61.5, y: 35}
+        - {x: -61.5, y: -14}
+        - {x: -41.5, y: -58}
+        - {x: 28.5, y: -58}
+        - {x: 61.5, y: -16}
+        - {x: 61.5, y: 25}
+        - {x: 39.5, y: 58}
+    - name: Alien_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1
+        width: 95
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 57}
+        - {x: 7.5, y: 54}
+        - {x: -2.5, y: 57}
+        - {x: -23.5, y: 57}
+        - {x: -21.5, y: 49}
+        - {x: -34.5, y: 34}
+        - {x: -47.5, y: 1}
+        - {x: -47.5, y: -36}
+        - {x: -40.5, y: -34}
+        - {x: -38.5, y: -32}
+        - {x: -30.5, y: -57}
+        - {x: 36.5, y: -57}
+        - {x: 47.5, y: -36}
+        - {x: 47.5, y: 14}
+        - {x: 26.5, y: 57}
+    - name: Alien_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.5, y: 10.5}
+        - {x: 51.5, y: 42.5}
+        - {x: 38.5, y: 57.5}
+        - {x: -33.5, y: 57.5}
+        - {x: -51.5, y: 36.5}
+        - {x: -51.5, y: 5.5}
+        - {x: -40.5, y: -28.5}
+        - {x: -29.5, y: -57.5}
+        - {x: -15.5, y: -57.5}
+        - {x: -12.5, y: -56.5}
+        - {x: -7.5, y: -57.5}
+        - {x: 32.5, y: -57.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
